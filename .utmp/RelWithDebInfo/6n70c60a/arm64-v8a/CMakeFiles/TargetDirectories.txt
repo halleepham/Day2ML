@@ -1,0 +1,5 @@
+C:/Users/hdph78/Day2 ML/.utmp/RelWithDebInfo/6n70c60a/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/hdph78/Day2 ML/.utmp/RelWithDebInfo/6n70c60a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/hdph78/Day2 ML/.utmp/RelWithDebInfo/6n70c60a/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/hdph78/Day2 ML/.utmp/RelWithDebInfo/6n70c60a/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/hdph78/Day2 ML/.utmp/RelWithDebInfo/6n70c60a/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
